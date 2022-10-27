@@ -1,4 +1,4 @@
-# Welcome to Fallout Community!**
+# Welcome to Fallout Community!
 
 Our community makes board game apps for the Fallout universe
 
