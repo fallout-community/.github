@@ -1,7 +1,8 @@
-**Welcome to Fallout Community!**
+# Welcome to Fallout Community!**
 
+Our community makes board game apps for the Fallout universe
 
-## Why we start it
+## Why did we start this
 At the moment, our main goal is to make an application that allows you to collect a roster for a battle mod.
 
 The main difference between our application and the official one is that it will allow us to make changes to maps, prices, etc.
